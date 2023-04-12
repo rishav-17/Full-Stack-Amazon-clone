@@ -1,0 +1,14 @@
+for starting the fron end localy:
+Go to cd amazon-clone
+Then go to the npm start in terminal
+
+
+for starting the backend:
+Go to cd amazon-clone
+Go to cd functions
+then type "firebase emulators:start"
+
+now the whole payments history would be deployed on the stripe app
+
+and the whole database history would be on the website orders page
+
