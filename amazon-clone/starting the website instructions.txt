@@ -12,7 +12,7 @@ now the whole payments history would be deployed on the stripe app
 
 and the whole database history would be on the website orders page
 
-To start thr back end of the site:
+To start the back end of the site:
 paste the functions>node_modules in the functions folder
 And the another node_modules folder to amazon_clone folder. 
 
